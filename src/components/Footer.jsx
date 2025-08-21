@@ -1,6 +1,8 @@
 import React from 'react'
 import { assets } from '../assets/assets'
 
+{/* fotter components*/}
+
 function Footer() {
   return (
     <div>
